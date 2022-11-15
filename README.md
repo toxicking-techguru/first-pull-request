@@ -3,7 +3,7 @@
 ### Follow the steps on "[How we shall be contributing to projects and how we shall avoid merge conflicts](https://github.com/Th3-Shield/.github-private/blob/main/profile/README.md#how-we-shall-be-contributing-to-projects-and-how-we-shall-avoid-merge-conflicts)" to **add your name to the alphabetical list on README file**
 The format which we shall be using is:
 ```
-- [Full Name](https://github.com/your-username)
+- [Toxicki ngtechguru ](https://github.com/toxicking-techguru)
 ```
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
